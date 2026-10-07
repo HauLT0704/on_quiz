@@ -1,0 +1,2 @@
+[Slide 363] Arduino can be used to develop interactive objects that can work without a computer. (A. TRUE | B. FALSE)	ĐÁP ÁN: A - TRUE. [GIẢI THÍCH]: ĐÚNG: Sau khi nạp code, Arduino có thể hoạt động độc lập bằng nguồn pin/adapter mà không cần kết nối với máy tính.
+[Slide 364] In Arduino, a "Sketch" is a diagram that shows the physical arrangement of the components. (A. TRUE | B. FALSE)	ĐÁP ÁN: B - FALSE. [GIẢI THÍCH]: SAI: Trong thuật ngữ Arduino, 'Sketch' là tên gọi của chương trình phần mềm (mã code) viết cho vi điều khiển, KHÔNG PHẢI là sơ đồ bố trí linh kiện vật lý.
